@@ -16,8 +16,36 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: 待整理的文档
+   :caption: [野火]i.MX RT库开发实战指南——基于i.MXRT1052
    :numbered:
+
+   doc/chapter1/chapter1
+   doc/chapter2/chapter2
+   doc/chapter3/chapter3
+   doc/chapter4/chapter4
+   doc/chapter5/chapter5
+   doc/chapter6/chapter6
+   doc/chapter7/chapter7
+   doc/chapter8/chapter8
+   doc/chapter9/chapter9
+   doc/chapter10/chapter10
+   doc/chapter11/chapter11
+   doc/chapter12/chapter12
+   doc/chapter13/chapter13
+   doc/chapter14/chapter14
+   doc/chapter15/chapter15
+   doc/chapter16/chapter16
+   doc/chapter17/chapter17
+   doc/chapter18/chapter18
+   doc/chapter19/chapter19
+
+
+
+
+
+
+
+
 
 
 
