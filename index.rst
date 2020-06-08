@@ -50,7 +50,13 @@
    doc/chapter29/chapter29
    doc/chapter30/chapter30
    doc/chapter31/chapter31
-
+   doc/chapter32/chapter32
+   doc/chapter33/chapter33
+   doc/chapter34/chapter34
+   doc/chapter35/chapter35
+   doc/chapter36/chapter36
+   doc/chapter37/chapter37
+   doc/chapter38/chapter38
 
 
 
