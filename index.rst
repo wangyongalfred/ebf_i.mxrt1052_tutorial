@@ -38,8 +38,18 @@
    doc/chapter17/chapter17
    doc/chapter18/chapter18
    doc/chapter19/chapter19
-
-
+   doc/chapter20/chapter20
+   doc/chapter21/chapter21
+   doc/chapter22/chapter22
+   doc/chapter23/chapter23
+   doc/chapter24/chapter24
+   doc/chapter25/chapter25
+   doc/chapter26/chapter26
+   doc/chapter27/chapter27
+   doc/chapter28/chapter28
+   doc/chapter29/chapter29
+   doc/chapter30/chapter30
+   doc/chapter31/chapter31
 
 
 
