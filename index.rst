@@ -57,14 +57,8 @@
    doc/chapter36/chapter36
    doc/chapter37/chapter37
    doc/chapter38/chapter38
-
-
-
-
-
-
-
-
+   doc/chapter39/chapter39
+   doc/chapter40/chapter40
 
 .. toctree::
    :maxdepth: 1
